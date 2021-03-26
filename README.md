@@ -1,8 +1,9 @@
-Laboratório de BD VI
-Aluna: Giovanna Xavier Matos
+# Laboratório de BD VI
 
-RA: 1460281823004
+*Aluna:* Giovanna Xavier Matos
 
-Diretórios
+*RA:* 1460281823004
+
+*Diretórios*
 
 pratica_01 - Exercício referente a atividade "Prática 01 - Ferramentas de Construçao e TDD"
