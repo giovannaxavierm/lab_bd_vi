@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class CalculadoraTest {
-        // O método verificará se o calculo raiz vai retorar o resultado correto, que não é o caso de agora
+        // O método verificará se o calculo de raiz quadrada vai retorar o resultado correto
         @Test
         public void testeRaizQuadrada(){
             Calculadora c = new Calculadora();

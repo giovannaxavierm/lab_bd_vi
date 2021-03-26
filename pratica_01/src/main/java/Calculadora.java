@@ -1,7 +1,17 @@
 public class Calculadora {
-    // fase vermelha
-    // Método que realiza o cálculo da raiz quadrada, está retornando o valor 48
+    // fase verde
+    // Método simplificado e suficiente para passar nos testes
     public double raiz(double n1){
-        return 48;
+        double aux = n1;
+        double raiz = 0;
+        for (int i = 1; true ; i += 2) {
+            aux -= i;
+            if (aux < i) {
+                raiz++;
+                break;
+            }
+            raiz++;
+        }
+        return raiz;
     }
 }
