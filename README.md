@@ -6,4 +6,4 @@
 
 *Diretórios*
 
-* java.pratica_01 - Exercício referente a atividade "Prática 01 - Ferramentas de Construçao e TDD"
+* pratica_01 - Exercício referente a atividade "Prática 01 - Ferramentas de Construçao e TDD"
