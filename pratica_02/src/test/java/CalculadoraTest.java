@@ -20,7 +20,7 @@ public class CalculadoraTest {
     @Test
     public void raizQuadradaProximo50() {
         double resultado = calc.raizQuadrada(49.99);
-        assertEquals(7.07, resultado);
+        assertEquals(7.0703, resultado, 0.0001);
     }
 
     //PARTIÇÃO 02 - NULO
