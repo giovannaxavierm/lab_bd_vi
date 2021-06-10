@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CalculadoraTest" tests="4" skipped="0" failures="1" errors="0" timestamp="2021-06-10T23:10:36" hostname="MacBook-Air-de-Giovanna.local" time="0.086">
+<testsuite name="CalculadoraTest" tests="4" skipped="0" failures="1" errors="0" timestamp="2021-06-10T23:14:31" hostname="MacBook-Air-de-Giovanna.local" time="0.114">
   <properties/>
-  <testcase name="raizQuadradaProximo50()" classname="CalculadoraTest" time="0.032"/>
-  <testcase name="raizQuadradaZero()" classname="CalculadoraTest" time="0.008"/>
-  <testcase name="raizQuadradaPertoZero()" classname="CalculadoraTest" time="0.007"/>
-  <testcase name="raizQuadradaNegativa()" classname="CalculadoraTest" time="0.018">
+  <testcase name="raizQuadradaProximo50()" classname="CalculadoraTest" time="0.071"/>
+  <testcase name="raizQuadradaZero()" classname="CalculadoraTest" time="0.002"/>
+  <testcase name="raizQuadradaPertoZero()" classname="CalculadoraTest" time="0.005"/>
+  <testcase name="raizQuadradaNegativa()" classname="CalculadoraTest" time="0.019">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;-1.0&gt; but was: &lt;NaN&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;-1.0&gt; but was: &lt;NaN&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:54)
 	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:195)
