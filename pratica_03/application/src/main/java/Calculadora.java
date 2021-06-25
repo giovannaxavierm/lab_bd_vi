@@ -4,10 +4,6 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author fabricio
- */
 public class Calculadora {
     public double raizQuadrada(double number){
         return(Math.sqrt(number));

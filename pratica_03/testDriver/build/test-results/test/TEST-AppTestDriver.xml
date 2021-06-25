@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="AppTestDriver" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-25T01:17:08" hostname="MacBook-Air-de-Giovanna.local" time="27.014">
+<testsuite name="AppTestDriver" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-25T16:56:04" hostname="MacBook-Air-de-Giovanna.local" time="37.114">
   <properties/>
-  <testcase name="testRaizNumber()" classname="AppTestDriver" time="27.014"/>
+  <testcase name="testRaizNumber()" classname="AppTestDriver" time="37.114"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 40417
+  <system-err><![CDATA[Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 41228
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-jun. 24, 2021 10:17:11 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+jun. 25, 2021 1:56:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMAÇÕES: Detected dialect: W3C
-Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 46461
+Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 31314
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-jun. 24, 2021 10:17:22 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+jun. 25, 2021 1:56:25 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMAÇÕES: Detected dialect: W3C
-Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 20765
+Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 29617
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-jun. 24, 2021 10:17:28 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+jun. 25, 2021 1:56:34 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMAÇÕES: Detected dialect: W3C
 ]]></system-err>
 </testsuite>

@@ -11,10 +11,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 
-/**
- *
- * @author fabricio
- */
 @WebServlet({"/raizQuadrada.action"})
 public class AppController extends HttpServlet {
 

@@ -1,6 +1,3 @@
-<%-- 
-    Author: Fabrício Galende Marques de Carvalho
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

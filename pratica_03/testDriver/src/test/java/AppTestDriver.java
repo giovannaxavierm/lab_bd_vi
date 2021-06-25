@@ -41,7 +41,7 @@ public class AppTestDriver {
         driver.quit();
 
         //CASO DE TESTE 2
-        //NÚMERO MAIS PERTO DE 5
+        //NÚMERO MAIS PERTO DE 50
         Thread.sleep(3000);
         WebDriver driver2 = new ChromeDriver();
         driver2.get("http://localhost:8080/app/");
