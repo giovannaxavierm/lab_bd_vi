@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pratica_03.testDriver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pratica_03_testDriver_jar</output-path>
+    <root id="archive" name="pratica_03.testDriver.jar" />
+  </artifact>
+</component>

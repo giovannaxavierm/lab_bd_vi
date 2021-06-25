@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Calculadora" target="11" />
+      <module name="Calculadora.main" target="11" />
+      <module name="calculadora.main" target="11" />
+      <module name="calculadora.main~1" target="11" />
+      <module name="calculadora.test" target="11" />
+      <module name="Calculadora.test" target="11" />
+      <module name="calculadora.test~1" target="11" />
+      <module name="pratica_03.application" target="11" />
+      <module name="pratica_03.application.main" target="11" />
+      <module name="pratica_03.application.test" target="11" />
+      <module name="pratica_03.AppTestDriver" target="11" />
+      <module name="pratica_03.AppTestDriver.main" target="11" />
+      <module name="pratica_03.AppTestDriver.test" target="11" />
+      <module name="pratica_03.main" target="11" />
+      <module name="pratica_03.src.test.java" target="11" />
+      <module name="pratica_03.src.test.java.main" target="11" />
+      <module name="pratica_03.src.test.java.test" target="11" />
+      <module name="pratica_03.test" target="11" />
+      <module name="pratica_03.testDriver.main" target="11" />
+      <module name="pratica_03.testDriver.test" target="11" />
+      <module name="pratica_03.webapp.main" target="11" />
+      <module name="pratica_03.webapp.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

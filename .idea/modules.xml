@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/lab_bd_vi.iml" filepath="$PROJECT_DIR$/.idea/lab_bd_vi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testDriver/pratica_03.testDriver.iml" filepath="$PROJECT_DIR$/.idea/modules/testDriver/pratica_03.testDriver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webapp/pratica_03.webapp.iml" filepath="$PROJECT_DIR$/.idea/modules/webapp/pratica_03.webapp.iml" />
     </modules>
   </component>
 </project>
