@@ -12,3 +12,4 @@ Partição 3 - Valores Nulos
 - CT3: <0, 0>
 
 Link do vídeo de apresentação:
+- https://youtu.be/Y8SLi7Mwl4k
