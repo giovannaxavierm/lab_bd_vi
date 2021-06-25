@@ -4,7 +4,7 @@ Para rodar a aplicação: gradle appRun
 Para rodar os testes: gradle test
 
 - Casos de Testes:
-- 
+
 Partição 1 - Valores positivos - Válido
 - CT1: <0.01, 0.1>
 - CT2: <49.99, 7.07>
